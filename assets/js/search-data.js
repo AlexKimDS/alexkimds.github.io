@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "news-my-first-post-here-rag-project-with-a-telegram-bot-ui",
+            },{id: "post-inference-time-techniques-for-llm-reasoning",
+      
+        title: "Inference-Time Techniques for LLM Reasoning",
+      
+      description: "An overview of different techniques to improve LLM reasoning capabilities at inference time, from prompting strategies to self-improvement methods.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/inference-time-techniques-for-llm-reasoning/";
+        
+      },
+    },{id: "news-my-first-post-here-rag-project-with-a-telegram-bot-ui",
           title: 'My first post here! RAG project with a Telegram Bot UI',
           description: "",
           section: "News",handler: () => {
