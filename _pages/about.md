@@ -32,7 +32,7 @@ I am a Senior Data Scientist at Intuit, specializing in Text Matching, LLM-relat
 As an Individual DS, I worked on various significant projects, including:
 
 - Development of Compliance and Credit Scoring Models
-- Deployment of BERT to Prod for CS optimization
+- Deployment of BERT to Prod for CS optimization (in 2019/20 before the LLMs! :sweat_smile:)
 - Time series forecasting, uplift modeling etc
 
 Later, I took on a Team Lead role, working on large scale projects, managing teams and hiring data specialists. The key projects during my TL tenure were:
@@ -43,7 +43,7 @@ Later, I took on a Team Lead role, working on large scale projects, managing tea
 After relocating to Israel, I returned to IC role and joined Intuit, where I worked on impactful projects, e.g:
 
 - DS projects for Data Aggregation Platform, resulting in optimization and error rate reduction by 30%
-- Founded and led Data Science Guild, professional community for experience & knowledge sharing (70+ members)
+- **Founded and led Data Science Guild**, professional community for experience & knowledge sharing (70+ members, I still can't believe how amazing this community was :sparkler: :sunglasses:)
 
 And in August 2024 I moved to London, where I'm currently working as a Senior Data Scientist at Intuit. My work includes classical ML tasks (classification and matching) and LLM-related projects, as well as statistical analysis and experimental design.
 
