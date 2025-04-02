@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-inference-time-techniques-for-llm-reasoning",
+            },{id: "post-why-data-scientists-should-learn-git",
+      
+        title: "Why Data Scientists Should Learn Git",
+      
+      description: "A discussion on the importance of Git for data scientists, focusing on collaboration, version control, and production delivery.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/why-data-scientists-should-learn-git/";
+        
+      },
+    },{id: "post-inference-time-techniques-for-llm-reasoning",
       
         title: "Inference-Time Techniques for LLM Reasoning",
       
