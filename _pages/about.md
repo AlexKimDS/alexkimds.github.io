@@ -49,7 +49,7 @@ And in August 2024 I moved to London, where I'm currently working as a Senior Da
 
 ## Why This Portfolio?
 
-I'm a full-time Data Scientist, a proud father, a husband, and a dog parent. I don’t contribute a lot to open-source projects or participate in DS competitions, but I believe that after **8+ years in the field**, I’ve gathered a lot of knowledge and experience worth sharing.
+I'm a full-time Data Scientist, a proud father, a husband, and a dog parent. I don’t contribute a lot to open-source projects or participate in DS competitions, but I believe that after **9+ years in the field**, I’ve gathered a lot of knowledge and experience worth sharing.
 
 This portfolio is my way of giving back. I’ll be sharing:
 
