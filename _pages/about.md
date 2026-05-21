@@ -47,7 +47,7 @@ The interesting part is rarely just the model. It is deciding what should be aut
 - **Kaspersky and Raiffeisen Bank**: worked on NLP, support automation, compliance scoring, and customer identification.
 - **Earlier path**: started as a data analyst, then moved toward data science because I wanted to build systems that could learn from data and affect real decisions.
 
-Across 9 years in applied AI and ML, I've worked across LLMs and agents, NLP, automation, uplift modeling, forecasting, experimentation, and ML engineering. I'm also an inventor on 15+ patented systems and methods in applied AI and machine learning. The formal version is on my <a href='/cv'>CV</a>; this site is the more human version.
+Over 9 years in applied AI and ML, I've worked across LLMs and agents, NLP, automation, uplift modeling, forecasting, experimentation, and ML engineering. I'm also an inventor on <a href='https://www.linkedin.com/posts/aleksandrkim_another-patent-issued-today-i-was-pleased-activity-7442563691025285120-wBUy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRiYgAB_DTA50qevXc1KKEm7OuIE69_ceQ'>15+ patented systems and methods</a> in applied AI and machine learning. The formal version is on my <a href='/cv'>CV</a>; this site is the more human version.
 
 ## Why This Site Exists
 
