@@ -25,36 +25,26 @@ latest_posts:
 
 <!-- ## About Me -->
 
-Hello world! I'm Alex, a data scientist based in London.
+I'm Alex, an AI engineer based in London, working on production AI/ML systems.
 
-I am a Senior Data Scientist at Intuit, specializing in Text Matching, LLM-related tasks, and A/B testing. I started my journey as a Data Analyst, but quickly switched to Data Science, as it was more related to my academic background. My detailed career path is reflected in my <a href='/cv'>CV</a>.
+Most of my work sits at the point where models stop being notebooks and start becoming product, infrastructure, and decision-making systems. These days that means automation, LLM-powered workflows, evaluation frameworks, experimentation, and the less glamorous but very real engineering needed to make AI reliable.
 
-As an Individual DS, I worked on various significant projects, including:
+At Intuit, I work on automation systems that include AI, AI features in customer-facing products, and AI agents with the systems around them. The interesting part is rarely just the model itself; it is deciding what should be automated, what still needs human judgment, how to measure quality, and how to make the result trustworthy enough for real users and real business decisions.
 
-- Development of Compliance and Credit Scoring Models
-- Deployment of BERT to Prod for CS optimization (in 2019/20 before the LLMs! :sweat_smile:)
-- Time series forecasting, uplift modeling etc
+Before moving to London, I worked with Intuit in Tel Aviv on ML-driven data aggregation systems and LLM evaluation approaches, including LLM-as-a-judge patterns. I also founded and led a Data Science Guild with 70+ members, which became one of the most valuable parts of that period for me: a reminder that good ML work scales through people, shared standards, and honest discussion as much as through code.
 
-Later, I took on a Team Lead role, working on large scale projects, managing teams and hiring data specialists. The key projects during my TL tenure were:
+Earlier, at X5 Retail Group, I moved into a team lead role and worked on large-scale retail problems such as promotion optimization and pricing. That period taught me how quickly "modeling" becomes a systems problem when forecasts, data quality, business constraints, and operational processes all meet in production.
 
-- Promotion Optimization – forecasting hundreds of thousands of time series daily to optimize revenue and market share
-- Pricing Models – predicting prices for millions of goods, balancing revenue, stock levels, cannibalization and other effects
+Before that, I worked as a data scientist at Kaspersky and Raiffeisen Bank, on support automation, NLP, compliance scoring, and customer identification. I started as a data analyst, but moved toward data science because I wanted to build systems that could learn from data and affect real decisions.
 
-After relocating to Israel, I returned to IC role and joined Intuit, where I worked on impactful projects, e.g:
-
-- DS projects for Data Aggregation Platform, resulting in optimization and error rate reduction by 30%
-- **Founded and led Data Science Guild**, professional community for experience & knowledge sharing (70+ members, I still can't believe how amazing this community was :sparkler: :sunglasses:)
-
-And in August 2024 I moved to London, where I'm currently working as a Senior Data Scientist at Intuit. My work includes classical ML tasks (classification and matching) and LLM-related projects, as well as statistical analysis and experimental design.
+Across 9 years in applied AI and ML, I've worked across LLMs and agents, NLP, automation, uplift modeling, forecasting, experimentation, and ML engineering. I'm also an inventor on 15+ patented systems and methods in applied AI and machine learning. The formal version is on my <a href='/cv'>CV</a>; this site is the more human version.
 
 ## Why This Portfolio?
 
-I'm a full-time Data Scientist, a proud father, a husband, and a dog parent. I don’t contribute a lot to open-source projects or participate in DS competitions, but I believe that after **9+ years in the field**, I’ve gathered a lot of knowledge and experience worth sharing.
+This site is where I want to write down the practical lessons that usually do not fit into a CV.
 
-This portfolio is my way of giving back. I’ll be sharing:
+Some of them are technical: what I learned from putting ML and LLM systems into production, evaluating outputs that are hard to define, and dealing with data and product constraints that do not look clean in real life.
 
-- Hints & Tips I wish I had earlier
-- Code Snippets for tricky problems
-- Guides & Checklists for DS workflows
+Some are about career and judgment: moving from analyst to data scientist, from individual contributor to team lead and back, changing countries and domains, and learning when the most useful work is not the most fashionable one.
 
-I hope this will be helpful. Please feel free to reach out—I’d love to connect!
+I want to share particular stories, findings, and mistakes from my own experience: the kind of things that are hard to get from generic AI advice, but useful if you are building real systems or trying to decide what kind of AI/data career you want.
