@@ -27,24 +27,32 @@ latest_posts:
 
 I'm Alex, an AI engineer based in London, working on production AI/ML systems.
 
-Most of my work sits at the point where models stop being notebooks and start becoming product, infrastructure, and decision-making systems. These days that means automation, LLM-powered workflows, evaluation frameworks, experimentation, and the less glamorous but very real engineering needed to make AI reliable.
+Most of my work sits where models stop being notebooks and start becoming product, infrastructure, automation, and decision-making systems. I care about the unglamorous part of AI: making systems reliable, measurable, and useful for real people.
 
-At Intuit, I work on automation systems that include AI, AI features in customer-facing products, and AI agents with the systems around them. The interesting part is rarely just the model itself; it is deciding what should be automated, what still needs human judgment, how to measure quality, and how to make the result trustworthy enough for real users and real business decisions.
+## What I Work On Now
 
-Before moving to London, I worked with Intuit in Tel Aviv on ML-driven data aggregation systems and LLM evaluation approaches, including LLM-as-a-judge patterns. I also founded and led a Data Science Guild with 70+ members, which became one of the most valuable parts of that period for me: a reminder that good ML work scales through people, shared standards, and honest discussion as much as through code.
+At Intuit, my current work is around:
 
-Earlier, at X5 Retail Group, I moved into a team lead role and worked on large-scale retail problems such as promotion optimization and pricing. That period taught me how quickly "modeling" becomes a systems problem when forecasts, data quality, business constraints, and operational processes all meet in production.
+- automation systems that use AI to reduce manual work and support decisions
+- AI features in customer-facing products
+- AI agents, evaluation, and the systems needed to make them trustworthy
 
-Before that, I worked as a data scientist at Kaspersky and Raiffeisen Bank, on support automation, NLP, compliance scoring, and customer identification. I started as a data analyst, but moved toward data science because I wanted to build systems that could learn from data and affect real decisions.
+The interesting part is rarely just the model. It is deciding what should be automated, what still needs human judgment, how to measure quality, and how to make the result useful enough for real business decisions.
+
+## How I Got Here
+
+- **London, Intuit**: working on production AI systems, automation, AI product features, agents, evaluation, and experimentation.
+- **Tel Aviv, Intuit**: worked on ML-driven data aggregation systems, LLM evaluation approaches, and founded a 70+ member Data Science Guild.
+- **X5 Retail Group**: moved into team leadership, working on large-scale retail forecasting, promotion optimization, pricing, hiring, and data quality.
+- **Kaspersky and Raiffeisen Bank**: worked on NLP, support automation, compliance scoring, and customer identification.
+- **Earlier path**: started as a data analyst, then moved toward data science because I wanted to build systems that could learn from data and affect real decisions.
 
 Across 9 years in applied AI and ML, I've worked across LLMs and agents, NLP, automation, uplift modeling, forecasting, experimentation, and ML engineering. I'm also an inventor on 15+ patented systems and methods in applied AI and machine learning. The formal version is on my <a href='/cv'>CV</a>; this site is the more human version.
 
-## Why This Portfolio?
+## Why This Site Exists
 
 This site is where I want to write down the practical lessons that usually do not fit into a CV.
 
-Some of them are technical: what I learned from putting ML and LLM systems into production, evaluating outputs that are hard to define, and dealing with data and product constraints that do not look clean in real life.
+Some posts will be technical. Some will be about career decisions, moving between roles and countries, becoming a lead and returning to IC work, and learning when the most useful work is not the most fashionable one.
 
-Some are about career and judgment: moving from analyst to data scientist, from individual contributor to team lead and back, changing countries and domains, and learning when the most useful work is not the most fashionable one.
-
-I want to share particular stories, findings, and mistakes from my own experience: the kind of things that are hard to get from generic AI advice, but useful if you are building real systems or trying to decide what kind of AI/data career you want.
+I want to share particular stories, findings, and mistakes from my own experience: the kind of things that are hard to get from generic AI advice, but useful if you are building real systems or deciding what kind of AI/data career you want.
