@@ -1,13 +1,12 @@
 {
   "basics": {
     "name": "Aleksandr Kim",
-    "label": "Senior Data Scientist",
+    "label": "Staff AI Engineer",
     "image": "",
     "email": "aleksandr.v.kim@gmail.com",
-    // "phone": "+44 7506 607 689",
     "linkedin": "linkedin.com/in/aleksandrkim/",
     "url": "alexkimds.github.io",
-    "summary": "Senior Data Scientist with 8+ years of experience building and deploying machine-learning and AI systems at scale. Currently focused on developing LLM-powered AI agents and agentic workflows in production, driving retention and product insights for millions of users. Strong background in both ML modeling and engineering (MLE), cross-functional leadership, and end-to-end delivery in fast-paced environments.",
+    "summary": "Staff-level AI engineer with 9 years of experience applying AI/ML to improve operational, product, and business metrics across fintech, retail, and enterprise environments. Built production AI systems and automation platforms that support decision-making, reduce manual effort, and scale business operations across international organisations. Strong background in hands-on technical execution, cross-functional leadership, and innovative AI/ML solutions, including 15+ patented systems and methods.",
     "location": {
       "city": "London",
       "countryCode": "UK"
@@ -15,62 +14,63 @@
   },
   "work": [
     {
-      "name": "Intuit (Leading Financial Software Company)",
-      "position": "Senior Data Scientist",
+      "name": "Intuit Inc. (Global Financial Software Company)",
+      "position": "Senior AI Engineer",
       "startDate": "2024-09",
       "endDate": "Present",
       "location": "London, UK",
       "highlights": [
-        "Led the end-to-end development of an LLM-powered AI agent for marketing analytics, automating insight generation previously handled via manual analyst workflows for multi-million-pound campaigns",
-        "Deployed LLM-powered agentic workflows to customer-facing surfaces used by millions of users, defining retention as the core success metric and establishing the experimentation and evaluation framework",
-        "Redesigned A/B testing methodology for non-IID data and non-normally distributed metrics, improving the reliability of experimental conclusions in production environments"
+        "Architected a production LLM-based agentic insights system for real-time executive reporting, using structured chain-of-thought outputs and saving <b>30+ hrs/week</b> at leadership level",
+        "Implemented in-product recommendation systems for EMEA, delivering uplift in service adoption (<b>+8pp</b>) and cross-sell improvement (<b>+12pp LTV impact</b>)",
+        "Designed a cost-efficient ML-based evaluation framework for LLM outputs, reducing inference spend by <b>33%</b> vs. LLM-as-a-judge baselines while improving reliability",
+        "Inventor on <b>15+ patents</b> in machine learning and applied AI"
       ]
     },
     {
-      "name": "Intuit (Leading Financial Software Company)",
-      "position": "Senior Data Scientist",
+      "name": "Intuit Inc. (Global Financial Software Company)",
+      "position": "Senior AI Engineer",
       "startDate": "2022-07",
       "endDate": "2024-08",
       "location": "Tel Aviv, Israel",
       "highlights": [
-        "Founded and led a cross-team Data Science Guild (70+ members), driving alignment on ML best practices, experimentation standards, and knowledge sharing",
-        "Led optimization of a complex ML-driven data aggregation system, reducing customer-facing data errors by <b>40%</b> and improving overall product stability"
+        "Optimized large-scale ML-driven data aggregation systems, reducing customer-facing data errors by <b>40%</b>",
+        "Founded and led a <b>70+ member</b> Data Science Guild, standardising ML best practices and experimentation frameworks across the organization",
+        "Redesigned experimentation methodology for non-IID and non-normal data, increasing reliability of complex AB test results across product teams"
       ]
     },
     {
       "name": "X5 Retail Group (Top Russian Retailer, about 20k stores)",
-      "position": "Team Lead, Data Science",
+      "position": "Data Science Team Lead (2 Teams)",
       "startDate": "2021-10",
       "endDate": "2022-06",
       "location": "Moscow, Russia",
       "highlights": [
-        "Led development and production deployment of a promotions optimization system forecasting <b>100K+ time series daily</b>, supporting <b>revenue</b> decision-making across the whole retail network",
-        "Built pricing models for millions of SKUs, used by business stakeholders for pricing decisions and large-scale <b>revenue optimization</b> initiatives",
-        "Founded and scaled a data science team, collaborating with HR and engineering leadership to hire DS, DE, and DQ specialists across critical analytics functions",
-        "Implemented Hive-based data quality monitoring, reducing data-related incidents and improving reliability of analytics and ML pipelines"
+        "Led development and production deployment of a promo optimization system forecasting <b>100K+ time series daily</b>, supporting revenue decision-making across the whole retail network",
+        "Hired and built my own team while also supporting the hiring of DS, DE and DQ specialists for other teams",
+        "Organized data quality monitoring for Hive data bases"
       ]
     },
     {
-      "name": "Kaspersky Lab (International Cybersecurity Company)",
-      "position": "Senior Data Scientist",
+      "name": "Kaspersky (International Cyber Security company)",
+      "position": "Data Scientist",
       "startDate": "2019-03",
       "endDate": "2021-09",
       "location": "Moscow, Russia",
       "highlights": [
-        "Built and deployed BERT-based support automation models, reducing support costs by <b>20%</b>",
-        "Led customer behavior analysis and AB testing, driving measurable <b>increases in retention</b>",
-        "Developed a language identification model to <b>automate support workflows</b> and improve SLA"
+        "Developed and deployed BERT-based model for customers support automation (<b>20%</b> reduce of support costs)",
+        "Analyzed user's behavior data, generated hypotheses and conducted AB tests to verify them (customers' Retention Rate increase)",
+        "Developed and deployed language identification model for customer's support (SLA increase + automation)"
       ]
     },
     {
-      "name": "Raiffeisen Bank  (International Bank)",
+      "name": "Raiffeisen Bank (Austrian Bank)",
       "position": "Data Scientist",
       "startDate": "2018-06",
       "endDate": "2019-03",
       "location": "Moscow, Russia",
       "highlights": [
-        "Improved compliance scoring system, contributing to measurable <b>revenue uplift</b>",
-        "Designed customer identification models to optimize employee workflows"
+        "Improved local compliance scoring system (significant revenue growth)",
+        "Developed model for customer identification (employees' workload optimization)"
       ]
     },
     {
@@ -105,15 +105,15 @@
   "skills": [
     {
       "name": "AI & ML",
-      "keywords": ["LLMs & Agents", "NLP", "Uplift modeling", "Ranking & Matching", "Time series forecasting"]
+      "keywords": ["LLMs & Agents", "NLP", "Uplift modeling", "Ranking & Matching", "TS Forecasting"]
     },
     {
       "name": "Tools",
-      "keywords": ["Python", "Scikit-learn", "PyTorch", "Transformers", "Pandas", "Numpy"]
+      "keywords": ["Python", "Scikit-learn", "Langfuse", "PyTorch", "Transformers", "Pandas", "Numpy"]
     },
     {
       "name": "ML Engineering",
-      "keywords": ["Airflow", "MLflow", "Docker", "Kubernetes", "Code and Data versioning (Git, DVC)", "CI/CD", "Prototyping (Flask, FastAPI)"]
+      "keywords": ["Airflow", "MLflow", "Docker", "Kubernetes", "Code & Data versioning (Git, DVC)", "CI/CD", "Flask", "FastAPI"]
     },
     {
       "name": "Data",
@@ -121,7 +121,7 @@
     },
     {
       "name": "Soft Skills",
-      "keywords": ["Team Leadership", "Project Management", "Expectation Management", "Cross-functional Collaboration", "Mentoring"]
+      "keywords": ["People & Project Management", "Negotiation & Presentation skills", "Cross-functional Collaboration", "Mentoring"]
     }
     // {
     //   "name": "Cloud Computing",
@@ -149,21 +149,21 @@
   "projects": [
     {
       "name": "RAG project with a Telegram Bot UI",
-      "summary": "Built end-to-end retrieval-augmented generation system with Docker, MLflow, Postgres, and DVC for scalable experimentation.",
+      "summary": "Built an end-to-end retrieval-augmented generation system with a Telegram Bot UI.",
       "highlights": ["LLM, RAG, Docker, MLFlow, Postgres, DVC etc."],
       "startDate": "2023",
       "url": "https://gitlab.com/1AlexKim/ai-helper"
     },
     {
-      "name": "Overdue Payments Prediction",
-      "summary": "Designed predictive model for energy supplier, automating client reminders with actionable insights.",
+      "name": "Freelance project for an energy supplying company",
+      "summary": "Built an overdue payments prediction model.",
       "highlights": ["XGBoost, EDA, tabular data, consulting, delivery"],
       "startDate": "2018",
       "endDate": "2019"
     },
     {
       "name": "Hackathon ”Human Capital Convention”",
-      "summary": "Best task solution award for employee - job description matching",
+      "summary": "Best market fit award for employee - job description matching model.",
       "highlights": ["Hackathon, Matching, NLP"],
       "startDate": "2018"
     }
