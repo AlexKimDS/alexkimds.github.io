@@ -11,6 +11,17 @@
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
+      {% if site.enable_goatcounter and site.goatcounter_site and page.url == "/" %}
+        {% assign goatcounter_base = site.url | append: site.baseurl %}
+        <div class="small text-muted mt-2">
+          Home views:
+          <span class="gc-counter" data-goatcounter-url="{{ goatcounter_base }}/">0</span>
+          &nbsp;|&nbsp; CV views:
+          <span class="gc-counter" data-goatcounter-url="{{ goatcounter_base }}/cv/">0</span>
+          &nbsp;|&nbsp; Blog views:
+          <span class="gc-counter" data-goatcounter-url="{{ goatcounter_base }}/blog/">0</span>
+        </div>
+      {% endif %}
     </div>
   </footer>
 {% else %}
@@ -29,6 +40,17 @@
       {% endif %}
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+      {% endif %}
+      {% if site.enable_goatcounter and site.goatcounter_site and page.url == "/" %}
+        {% assign goatcounter_base = site.url | append: site.baseurl %}
+        <div class="small text-muted mt-2">
+          Home views:
+          <span class="gc-counter" data-goatcounter-url="{{ goatcounter_base }}/">0</span>
+          &nbsp;|&nbsp; CV views:
+          <span class="gc-counter" data-goatcounter-url="{{ goatcounter_base }}/cv/">0</span>
+          &nbsp;|&nbsp; Blog views:
+          <span class="gc-counter" data-goatcounter-url="{{ goatcounter_base }}/blog/">0</span>
+        </div>
       {% endif %}
     </div>
   </footer>
