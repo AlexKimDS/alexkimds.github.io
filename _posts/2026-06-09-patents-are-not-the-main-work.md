@@ -22,6 +22,7 @@ That part is nice, of course.
 But patenting ideas is far from the main work of an AI engineer.
 
 The main work is less shiny:
+
 - choosing the right problem
 - talking to users before building too much
 - killing the first idea when it is wrong
@@ -36,3 +37,5 @@ We'll talk about the agentic system I worked on at Intuit, why the original chat
 Join live if you want to ask questions in real time:
 
 [https://luma.com/6c089dac](https://luma.com/6c089dac)
+
+P.S. Patents are not a default part of AI/ML/DS work. A lot of excellent people in the field never write one. I was lucky to learn how the process works a few years ago from very good teachers, and to work in places where turning practical ideas into patent applications was supported. It is a separate skill, and I am still grateful someone taught me.
