@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-why-data-scientists-should-learn-git",
+            },{id: "post-patents-are-not-the-main-work",
+      
+        title: "Patents Are Not the Main Work",
+      
+      description: "Two more patent applications are issuing, and a note on what AI engineering looks like in production.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/patents-are-not-the-main-work/";
+        
+      },
+    },{id: "post-why-data-scientists-should-learn-git",
       
         title: "Why Data Scientists Should Learn Git",
       
