@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-patents-are-not-the-main-work",
+            },{id: "post-talking-about-ai-engineering-in-production",
+      
+        title: "Talking About AI Engineering in Production",
+      
+      description: "Notes from my DataTalksClub conversation on production AI engineering, evaluation, routing, token costs, and when to stop an AI pilot.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/ai-engineering-podcast/";
+        
+      },
+    },{id: "post-patents-are-not-the-main-work",
       
         title: "Patents Are Not the Main Work",
       
